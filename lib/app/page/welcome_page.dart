@@ -10,7 +10,7 @@ class WelcomePage extends StatelessWidget {
     Logger.info('build: WelcomePage');
 
     return const Scaffold(
-      body: Center(child: Text('WelcomePage WelcomePage WelcomePage')),
+      body: Center(child: Text('WelcomePage')),
     );
   }
 }

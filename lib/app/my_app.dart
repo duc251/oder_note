@@ -85,7 +85,7 @@ class _MyAppState extends State<MyApp> {
                     //   }
                       if (state is LoadSuccessState) {
                         _navigatorState.pushNamedAndRemoveUntil(
-                            AppRoutes.welcomePage, (context) => false);
+                            AppRoutes.homePage, (context) => false);
                       }
                       if (state is LoadFailureState) {
                         _navigatorState.pushNamedAndRemoveUntil(
