@@ -1,0 +1,1 @@
+[{"type":{"import":"package:oder_note/core/repositories/app_repository.dart","name":"AppRepository","isNullable":false},"typeImpl":{"import":"package:oder_note/core/repositories/app_repository.dart","name":"AppRepository","isNullable":false},"isAsync":false,"preResolve":false,"injectableType":1,"dependsOn":[],"environments":[],"dependencies":[],"constructorName":""}]

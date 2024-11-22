@@ -6,15 +6,15 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		85iaADE5tc/NukRC+KGdiZaZ0ZA=
+		h5OB7aKzS5WR9SemvZAyN6FEkJs=
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		ME0cAg6cl/bTZmwXEVgMugDccUI=
+		AWfb3609a/3mTuZ7ybUsp6zN82o=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		jdsefe25kYeD8N7qQrIXHcfxiR8=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -22,7 +22,239 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		RIAilnlOaIQ4G5me//hYHoX0dxY=
+		68c5xm5FbGb6/Fn5hM9SWyixF/8=
+		</data>
+		<key>flutter_assets/assets/icons/01d.png</key>
+		<data>
+		j6EiJZ2dMkfFvqkImVXMIsDVinY=
+		</data>
+		<key>flutter_assets/assets/icons/01n.png</key>
+		<data>
+		n5Lvzuti5TaegoGAtwhJ3FKf7Uo=
+		</data>
+		<key>flutter_assets/assets/icons/02d.png</key>
+		<data>
+		/KVIKDaUXk7dChu5akK51SJ1wgQ=
+		</data>
+		<key>flutter_assets/assets/icons/02n.png</key>
+		<data>
+		3yyaur21iDMbJX1+ICbgwuGmMKE=
+		</data>
+		<key>flutter_assets/assets/icons/03d.png</key>
+		<data>
+		fSIi95KZvmSjQT7g64jO/S6fDro=
+		</data>
+		<key>flutter_assets/assets/icons/04d.png</key>
+		<data>
+		zVFlqU6ow82l5SVjPNy9oI8kNvo=
+		</data>
+		<key>flutter_assets/assets/icons/04n.png</key>
+		<data>
+		zVFlqU6ow82l5SVjPNy9oI8kNvo=
+		</data>
+		<key>flutter_assets/assets/icons/09d.png</key>
+		<data>
+		xNM0ty6cyum6DQvzMwoDzbCHx/c=
+		</data>
+		<key>flutter_assets/assets/icons/09n.png</key>
+		<data>
+		xNM0ty6cyum6DQvzMwoDzbCHx/c=
+		</data>
+		<key>flutter_assets/assets/icons/10d.png</key>
+		<data>
+		qxuTZ+Hudcjw8LrzPPz5+RFU0Fs=
+		</data>
+		<key>flutter_assets/assets/icons/10n.png</key>
+		<data>
+		Rqa5Q2zwXCMUQpaJii4OT2uq10E=
+		</data>
+		<key>flutter_assets/assets/icons/11d.png</key>
+		<data>
+		Cwy6Ob40LK8cNb2luW/+kqXc2M8=
+		</data>
+		<key>flutter_assets/assets/icons/11n.png</key>
+		<data>
+		EVXyFTlgZqX06tbVkYiCJN7xH8g=
+		</data>
+		<key>flutter_assets/assets/icons/13d.png</key>
+		<data>
+		Cr4nnBt/ls1MxT12qWByE+shCxM=
+		</data>
+		<key>flutter_assets/assets/icons/13n.png</key>
+		<data>
+		V0i0Md2rP1ySNEgBT06/zRMbyxo=
+		</data>
+		<key>flutter_assets/assets/icons/50d.png</key>
+		<data>
+		zPFG1ge2Uj4l+roVEVLoQyq6sn8=
+		</data>
+		<key>flutter_assets/assets/icons/50n.png</key>
+		<data>
+		zPFG1ge2Uj4l+roVEVLoQyq6sn8=
+		</data>
+		<key>flutter_assets/assets/icons/clear-day.png</key>
+		<data>
+		3k/+l/IQYK93qnfaysKaVBiJ4G0=
+		</data>
+		<key>flutter_assets/assets/icons/clear-night.png</key>
+		<data>
+		Uc6r5nu6CroH9hRB7TUTpKEwZK0=
+		</data>
+		<key>flutter_assets/assets/icons/cloudy.png</key>
+		<data>
+		ROxh7qgJiUxUyawPIWD0Qz/nKXk=
+		</data>
+		<key>flutter_assets/assets/icons/fog.png</key>
+		<data>
+		ioklnGRqc0bnXemf4BMagEvEWyI=
+		</data>
+		<key>flutter_assets/assets/icons/hail.png</key>
+		<data>
+		F/B3uzX3wGBhkpXB9OMzLIDWAfg=
+		</data>
+		<key>flutter_assets/assets/icons/partly-cloudy-day.png</key>
+		<data>
+		jkObtuD6mR/UZlo5DXZWMeQw6TE=
+		</data>
+		<key>flutter_assets/assets/icons/partly-cloudy-night.png</key>
+		<data>
+		l2TEayrqHeIIm8yLi3FoTivuvd4=
+		</data>
+		<key>flutter_assets/assets/icons/rain-snow-showers-day.png</key>
+		<data>
+		0NMyT0/RK7jbxt68y0IpU1Ojnhk=
+		</data>
+		<key>flutter_assets/assets/icons/rain-snow-showers-night.png</key>
+		<data>
+		rXJJeknfPfytNbN1a9d1E+OCyys=
+		</data>
+		<key>flutter_assets/assets/icons/rain-snow.png</key>
+		<data>
+		U8arUFY8QvKud8zdWOdpF0L/CRY=
+		</data>
+		<key>flutter_assets/assets/icons/rain.png</key>
+		<data>
+		R1gbnPuQ2zn+qD5ZZzdYaNtOvQs=
+		</data>
+		<key>flutter_assets/assets/icons/showers-day.png</key>
+		<data>
+		o1lEO05AV9w6jvObePC8Wm4j9wg=
+		</data>
+		<key>flutter_assets/assets/icons/showers-night.png</key>
+		<data>
+		bLlggYvuomWE1a1lzIXjAmfi9hg=
+		</data>
+		<key>flutter_assets/assets/icons/sleet.png</key>
+		<data>
+		K0mdkwxgE9Zf2TZj2ZooI1iMWZQ=
+		</data>
+		<key>flutter_assets/assets/icons/snow-showers-day.png</key>
+		<data>
+		J3/tjDp0YISIilMVjRF5z+hNOMc=
+		</data>
+		<key>flutter_assets/assets/icons/snow-showers-night.png</key>
+		<data>
+		uRppqhDxuF0y9vtVoGMtiq0bc7o=
+		</data>
+		<key>flutter_assets/assets/icons/snow.png</key>
+		<data>
+		TB1K4Dr2yrw5wmYZeufaORk+Pms=
+		</data>
+		<key>flutter_assets/assets/icons/thunder-rain.png</key>
+		<data>
+		10B8jnpml1jC/YqkGm0FoxCdlf0=
+		</data>
+		<key>flutter_assets/assets/icons/thunder-showers-day.png</key>
+		<data>
+		g182cl10kP97z8bhe6ZWr8Ie/AE=
+		</data>
+		<key>flutter_assets/assets/icons/thunder-showers-night.png</key>
+		<data>
+		A64gSh+giDLBl55/sK5vYciGB2Q=
+		</data>
+		<key>flutter_assets/assets/icons/thunder.png</key>
+		<data>
+		dOaoF9/jBuTJ4KZwq5uRzQN2ugA=
+		</data>
+		<key>flutter_assets/assets/icons/wind.png</key>
+		<data>
+		xCKNlv6A/1+GcvEPsvLs7v12Kgo=
+		</data>
+		<key>flutter_assets/assets/images/03n.jpeg</key>
+		<data>
+		6GkvGjt1JMiK8uAGE2d7+elij00=
+		</data>
+		<key>flutter_assets/assets/images/04d.jpeg</key>
+		<data>
+		Y93i33GSkf4cCEcMgpIDCbiE0+E=
+		</data>
+		<key>flutter_assets/assets/images/04n.jpeg</key>
+		<data>
+		DjJJaDnEbYfykEwxRKC5gF/A+S0=
+		</data>
+		<key>flutter_assets/assets/images/09n.jpeg</key>
+		<data>
+		VklxbE97pumVNgZ1/XarBWFMIgU=
+		</data>
+		<key>flutter_assets/assets/images/10d.jpeg</key>
+		<data>
+		VklxbE97pumVNgZ1/XarBWFMIgU=
+		</data>
+		<key>flutter_assets/assets/images/10n.jpeg</key>
+		<data>
+		VklxbE97pumVNgZ1/XarBWFMIgU=
+		</data>
+		<key>flutter_assets/assets/images/13n.jpeg</key>
+		<data>
+		+w7PNyDxF8o8m//wQkrSchWWTY8=
+		</data>
+		<key>flutter_assets/assets/images/50d.jpeg</key>
+		<data>
+		Y93i33GSkf4cCEcMgpIDCbiE0+E=
+		</data>
+		<key>flutter_assets/assets/images/50n.jpeg</key>
+		<data>
+		DjJJaDnEbYfykEwxRKC5gF/A+S0=
+		</data>
+		<key>flutter_assets/assets/images/clear-night.jpeg</key>
+		<data>
+		pN7XnwN27XLIGIQ3Vmbx7Oy791Q=
+		</data>
+		<key>flutter_assets/assets/images/clear_day.jpeg</key>
+		<data>
+		GgkLdzFxthqL9rn/wvTfuvwE+2w=
+		</data>
+		<key>flutter_assets/assets/images/cloudy.jpeg</key>
+		<data>
+		dKUkVYJZO9fI61kkRXkU3xWSZhI=
+		</data>
+		<key>flutter_assets/assets/images/compass.png</key>
+		<data>
+		dtD3vu6i5sbxRrOEGbGUIYJn1Do=
+		</data>
+		<key>flutter_assets/assets/images/partly-cloudy-day.jpeg</key>
+		<data>
+		dKUkVYJZO9fI61kkRXkU3xWSZhI=
+		</data>
+		<key>flutter_assets/assets/images/partly-cloudy-night.jpeg</key>
+		<data>
+		6GkvGjt1JMiK8uAGE2d7+elij00=
+		</data>
+		<key>flutter_assets/assets/images/rain-snow.jpeg</key>
+		<data>
+		fjQrWBbf+D794obAdG1g5mZ1300=
+		</data>
+		<key>flutter_assets/assets/images/rain.jpeg</key>
+		<data>
+		VklxbE97pumVNgZ1/XarBWFMIgU=
+		</data>
+		<key>flutter_assets/assets/images/thunder-showers-day.jpeg</key>
+		<data>
+		Zi0T1XcH28B1hThlwxOBkNEzL6E=
+		</data>
+		<key>flutter_assets/assets/images/thunder-showers-night.jpeg</key>
+		<data>
+		dNsMLaxZxeGCf8aZi9abzVm31vk=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -30,11 +262,11 @@
 		</data>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<data>
-		sZcG/IyIY4Zj14zcVkLxBjLthFs=
+		McatOONoKkfUF6SWyBRtFAcx3+A=
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		fkomi2KqyDn3TGMUoYKTb/2KJQc=
+		c2DQKcVsrbphDZ7qTpXXKLmGeR0=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -42,11 +274,11 @@
 		</data>
 		<key>flutter_assets/shaders/ink_sparkle.frag</key>
 		<data>
-		KL+7f3IYR/Y9WDlxxUeDmgGoluc=
+		p79zzJ85/yOQo5OGiBW5XF0+CxY=
 		</data>
 		<key>flutter_assets/vm_snapshot_data</key>
 		<data>
-		+HsWKuOINTMijVvKruokFpzcml8=
+		5pZuXudFN+/X6GBnZRBE8DbuhuQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -55,14 +287,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AK9VrT1vIYmP534P8JLRoc2lLJQbaGDpko1FyK+MCV0=
+			Qg9qip961OJZfWPVH/HtHIEss3XfZyuCji1FRIGrkxc=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			Mhz34K38ENt87Fx98z3PcMXhQ2PSsPsMQHuLrlx60E8=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -76,7 +308,413 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C4szPdS0AD7JLMyAxOIXKRO6ASL7TphOPzbz+/rCD8o=
+			wOZmB9eATgbdpN3VsGz8kw9Ljr33Ccl+zkl1g0Fg7jA=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/01d.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/ovITIDdq3edP7XT3AGKcURTDw0VtN1oKUTo8820ygA=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/01n.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			26DY8Udpnplb0DrxZV3Mbzxyz9xgi0ncLJYs1CfvoXQ=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/02d.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xg8zZOcpdTwSQwyHi2EHMBkn7Uvz04q5qAzcXwYZeGc=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/02n.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ap3XO51u3ZbAkY29tuiC4oJQg8k7lMbckjyjUuX7EIc=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/03d.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e0Xvr3cx9YJ+TbnjPojjv5bMNeHb9AbI8yhEVpqKF+s=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/04d.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d4//QbkSDkE4xN4/g2eBDLHM4VtFX5M0FmhE7MNp0xE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/04n.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d4//QbkSDkE4xN4/g2eBDLHM4VtFX5M0FmhE7MNp0xE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/09d.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			34U2YIUwcfPQ6RdBMY2zUJFikxSu4fGiLuV+5z3lQhU=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/09n.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			34U2YIUwcfPQ6RdBMY2zUJFikxSu4fGiLuV+5z3lQhU=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/10d.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y8sdGx7b0hx/NK0J0Q/tKHMEza+WVO77clrk1Qd4HGI=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/10n.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xvzvW/jm4xw52ule3WUQKSaYCekDfpQytiSPdPNuvQw=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/11d.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			++actLDGc9UZKT6f3j1kxGwWig/EHEZ8Z3gL1eE4rs4=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/11n.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uBqgeD1hbUJnY/j8n0Sw4j98sPSv6mazNy4uOMP+e+U=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/13d.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0HunOLN89gZjxYB23Qhzemt3viC6nGcip9eo3AFPza0=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/13n.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wAsUW6YczmrD0MbO7Vp7wTEKLC9JTAZe3uFuOf5DYhE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/50d.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sQnej8V2a1Qq3Et3xQrWjvc0iTONtp1AoP69sSR1r8w=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/50n.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sQnej8V2a1Qq3Et3xQrWjvc0iTONtp1AoP69sSR1r8w=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/clear-day.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SSKKswMXpKjbKeN2Bu7PhFEJ+OzoP/IjOhamZWGBcgs=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/clear-night.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jFizvG8xPNVaNFplWo24mf+rLVj/xw/OEQaAuXsjkN8=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/cloudy.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HzNqLiOBFS24QX9DPoLveMHhLbsAQl9un2eBE34UsEs=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/fog.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YOxPLHd+YkKUeYy+UVyECorj2hAbmaU+ucOChe9WIV0=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/hail.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e1qRH7lmIJXwXgCwITdkZXW4/ThvUrc77dFL+7T3Izk=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/partly-cloudy-day.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			X83hjtKICfiD9mezj1j4f7tx4o6deCJ5bMSn/zML0Pw=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/partly-cloudy-night.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7lwSzE10K/uBN7O0lITaISCmdTaFvustRNh61iCBLaw=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/rain-snow-showers-day.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xoIC33py8vPUhlkA63qhm8YYfIF2WfopW7AIuNAIcPg=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/rain-snow-showers-night.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			W9DXafpLSb7GxmQvkIO43bvBn0zUf67TEPFdqyvJz2o=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/rain-snow.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fl9dBI/RFazjp+KOivi9p5JRNwGnJSgj4Wvd3fMELcc=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/rain.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ywc+2hMx/SUw9XtydZHGy9NBumupV1cznomUGEKKv5g=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/showers-day.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SyMlr0HdtMWCSFOmWU0uKdU+PVigeh808QTQImBVoRs=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/showers-night.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ICG/826vUo5C15h2Ylw92WEJH1WJl8gufrk15HdxGLU=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/sleet.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SEWw9zSUqAT5OYQO9Szr/5mZ6pCVwW/JwByZuwNQbZs=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/snow-showers-day.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y3T6ZfXLcw0Dk2Ro6GdvKZ5bRkr9LIGkKB49LvmYOnc=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/snow-showers-night.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hP8HxSUZPMDePQ3ORSzfBye/2Z9daDosZxppOIDsL4A=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/snow.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3AFp3nh7xZpUb/jHQXhrKlEoc+74FLYHL56ke1I6/ek=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/thunder-rain.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gfzyTaxevxQY0j56oamyz8nAvtg7wOuIkk83fYeue9c=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/thunder-showers-day.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IMsveXAnwHGHJz9+WjZ1PO8yVNNqo1qJ6QgB3/A3qSE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/thunder-showers-night.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0vdgpV/g7+IH0PREM3xPP00J0JdotsIg2fTNGAuY9aA=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/thunder.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vFK9swcYJp6aki6lqlZUGYdf4Kxz+/6z/br267B+vL8=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/icons/wind.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rjH9eBEx6xI41N/nJt+XC1eRe5fbZTdzcASM3eBJ/fo=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/03n.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			myHS5ijk4S+LNQS7zlzlT3irFr/qWxkAyEgjNM055ps=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/04d.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wxpHHgqufpBGt5Ofs3kXdzCL4gr9YqGL/Cbh4kOjYNM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/04n.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6abbbalV+OEfxCtn/anO0Z9H3H9bD++4R/cTAfjN5wE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/09n.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q902omn7vjjCJus1abcXcV5ZPC2U9es8Wbp942OBQE0=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/10d.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q902omn7vjjCJus1abcXcV5ZPC2U9es8Wbp942OBQE0=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/10n.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q902omn7vjjCJus1abcXcV5ZPC2U9es8Wbp942OBQE0=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/13n.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pDRzSxfDvQugwsiHOaj0BQF+pmtJDfI1mggdw1ClKeA=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/50d.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wxpHHgqufpBGt5Ofs3kXdzCL4gr9YqGL/Cbh4kOjYNM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/50n.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6abbbalV+OEfxCtn/anO0Z9H3H9bD++4R/cTAfjN5wE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/clear-night.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EWo8IugMmOE8/HmrEsz3Qh+AxULvBNjukrPtzDSqG0U=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/clear_day.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DQRwjDMhtrz80Y5VuWy9sl8HCf/2eYrUeTEoAAN4gg8=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/cloudy.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/Ttly1jM0dIBEkEmUwf/ZJs8dHgiK2KLsON4JiCnbJE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/compass.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lUUni62/NTuaE3C3F1AH7DWE4o2TnqjCsBRy2xWYQio=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/partly-cloudy-day.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/Ttly1jM0dIBEkEmUwf/ZJs8dHgiK2KLsON4JiCnbJE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/partly-cloudy-night.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			myHS5ijk4S+LNQS7zlzlT3irFr/qWxkAyEgjNM055ps=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/rain-snow.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BK6V6CAJZ48GXkV+VOzR+NcUA1NCA/Qo53iVt+qcg0k=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/rain.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q902omn7vjjCJus1abcXcV5ZPC2U9es8Wbp942OBQE0=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/thunder-showers-day.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FvHfV3PtPyvF82BXAeqZ8ZKvolUKduMgU3yI8ouyz9o=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/thunder-showers-night.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NZ1FFuiJXd4KpTsnNtDszhSEssTlbwJcekX9YT3qHHo=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -90,14 +728,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BXV9zforqjV2xDEWFnfOol9xQ3r0c56U62EvllNav+c=
+			ZCIg5CEB1hx0a/FQAnu3BFCrNyLebyjdh+DmFl9ldkg=
 			</data>
 		</dict>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w51Gf0UpGqIXJK0yaIVXDNYHJSg0oP0QvM/egIThEAY=
+			nIynM/kegTY2QzwKXm5eS2pPwzPmTnKDw2vbn3T2Biw=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -111,14 +749,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v6u8YtYjslOLIIb1rrgcOW817fxVEiBaprKuV+f6FpY=
+			ggsttSoN6c2kH04/7vNnFwBQTTy8j9ILVF4lU1822Bk=
 			</data>
 		</dict>
 		<key>flutter_assets/vm_snapshot_data</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XRpcsR0vWGkDzG+35GjjzaJtqN3CuV3azmWWPti/o3M=
+			OKT7zSYjvmy6bkUt/xrnwXxv1rygk4kGDCZd1F+nKug=
 			</data>
 		</dict>
 	</dict>

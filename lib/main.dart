@@ -21,6 +21,7 @@ Future<void> main() async {
   final EnvConfig devConfig = EnvConfig(
     appName: "my app", 
     baseUrl: "", 
+    urlWeather:"https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/",
     connectWeb: ""
     );
  

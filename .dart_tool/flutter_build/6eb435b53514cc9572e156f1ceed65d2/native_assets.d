@@ -1,0 +1,1 @@
+ /Volumes/Untitled\ -\ Data/oder_note/weather_v/.dart_tool/flutter_build/6eb435b53514cc9572e156f1ceed65d2/native_assets.yaml: 
